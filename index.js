@@ -1,5 +1,5 @@
 console.log('This  is  Digital clock');
-
+// Onload the code
 window.onload = function () {
 	setInterval(updateTime, 1000)
 };
